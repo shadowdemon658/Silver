@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "silver:raw_silver_ingot"
+    }
+  },
+  "result": {
+    "item": "silver:raw_silver_block"
+  }
+}

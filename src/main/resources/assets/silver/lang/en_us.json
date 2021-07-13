@@ -1,0 +1,22 @@
+{
+  "itemGroup.silver.silver_group": "Silver Mod Group",
+  "item.silver.silver_carrot": "Silver Carrot",
+  "item.silver.silver_ingot": "Silver Ingot",
+  "item.silver.silver_nugget": "Silver Nugget",
+  "item.silver.raw_silver_ingot": "Raw Silver Ingot",
+  "item.silver.silver_helmet": "Silver Helmet",
+  "item.silver.silver_chestplate": "Silver Chestplate",
+  "item.silver.silver_leggings": "Silver Leggings",
+  "item.silver.silver_boots": "Silver Boots",
+  "item.silver.silver_sword": "Silver Sword",
+  "item.silver.silver_shovel": "Silver Shovel",
+  "item.silver.silver_pickaxe": "Silver Pickaxe",
+  "item.silver.silver_axe": "Silver Axe",
+  "item.silver.silver_hoe": "Silver Hoe",
+  "block.silver.silver_ore": "Silver Ore",
+  "block.silver.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.silver.silver_block": "Block of Silver",
+  "block.silver.raw_silver_block": "Block of Raw Silver",
+  "advancements.silver.root.title": "You finally found it...",
+  "advancements.silver.root.description": "Get a raw silver nugget"
+}

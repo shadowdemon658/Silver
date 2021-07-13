@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "silver:silver_ore",
+    "silver:deepslate_silver_ore",
+    "silver:silver_block",
+    "silver:raw_silver_block"
+  ]
+}

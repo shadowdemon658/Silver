@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "silver:raw_silver_ingot_smeltable"
+  },
+  "result": "silver:silver_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

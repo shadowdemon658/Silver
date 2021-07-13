@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "silver",
+  "version": "${version}",
+  "name": "Silver Mod",
+  "description": "This is a mod that adds silver to minecraft",
+  "authors": [
+    "DarkShadow"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/silver/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.darkshadow.silver.SilverMod"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}

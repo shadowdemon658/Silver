@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "silver:silver_ingot"
+    },
+    "title": {
+      "translate": "advancements.silver.root.title"
+    },
+    "description": {
+      "translate": "advancements.silver.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "platinum_sources": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silver:raw_silver_nugget"
+            ]
+          },
+          {
+            "items": [
+              "silver:silver_ore"
+            ]
+          },
+          {
+            "items": [
+              "silver:deepslate_silver_ore"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "silver_sources"
+    ]
+  ]
+}
